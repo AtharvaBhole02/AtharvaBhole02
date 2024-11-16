@@ -2,13 +2,31 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 Front end developer 
 -------------------  
- 
-welcome to my Profile ! , I am a graduate at D.Y PATIL INSTITUTEOF ENGINEERING,MANAGEMENT & RESEARCH and My field of study is Engineering in Computer. During my current tenure at Stevens I have interned as a Frontend Software developer at TekInvaderz LLC. My area of work was in Frontend development using Javascript, ReactJs, NodeJs as my primary techstack. I have almost 1 year experience developing web applications using HTML5, CSS3, TailwindCSS and other web technologies. I do like graphic design a lot and make doodles and graphics in my free time. 
-* 🌍  I'm based in Pune,India 
-* 🖥️  See my portfolio at [tanaya-Dashboard](http://tanaya-dashboard.netlify.app/)
-* ✉️  You can contact me at [atharvabhole02@gmail.com](mailto:atharvabhole02@gmail.com) 
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on projects
+I'm a third-year Computer Engineering student passionate about front-end development. I enjoy creating responsive, user-friendly web interfaces that deliver great user experiences.
+
+What I Do:
+
+🖥 Crafting interactive and visually appealing websites using HTML, CSS, and JavaScript.
+
+🌐 Exploring modern frameworks like React to build dynamic web applications.
+
+🎨 Passionate about clean design and intuitive UI/UX.
+
+
+What I'm Learning:
+
+📚 Diving deeper into front-end frameworks and state management.
+
+🔍 Enhancing my skills in web performance optimization and accessibility.
+
+🚀 Experimenting with full-stack development to expand my technical knowledge.
+
+
+Let's Connect!
+
+I'm always excited to collaborate on interesting projects and learn from others. Feel free to explore my repositories or reach out to discuss opportunities!
+
+Happy coding! ✨
  
 ### Skills  
  
@@ -21,7 +39,7 @@ welcome to my Profile ! , I am a graduate at D.Y PATIL INSTITUTEOF ENGINEERING,M
 <!--
 <b>My GitHub Stats</b>
 <
-<a href="http://www.github.com/bholetanaya2715"><img src="https://github-readme-stats.vercel.app/api?username=bholetanaya2715&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=581c87&hide_border=true&show_icons=true" alt="bholetanaya2715's GitHub stats" /></a>
+<a href="http://www.github.com/AtharvaBhole02"><img src="https://github-readme-stats.vercel.app/api?username=bholetanaya2715&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=581c87&hide_border=true&show_icons=true" alt="bholetanaya2715's GitHub stats" /></a>
 <a href="http://www.github.com/bholetanaya2715"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bholetanaya2715&stroke=facc15&background=581c87&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 <a href="http://www.github.com/bholetanaya2715"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bholetanaya2715&bg_color=581c87&color=facc15&line=ec4899&point=facc15&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/bholetanaya2715" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bholetanaya2715&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> --->
