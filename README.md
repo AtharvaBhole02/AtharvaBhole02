@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front end developer 
 -------------------  
  
-welcome to my Profile ! , I am a graduate at Stevens Institute of technology and My field of study is MS in Computer Science. During my current tenure at Stevens I have interned as a Frontend Software developer at TekInvaderz LLC. My area of work was in Frontend development using Javascript, ReactJs, NodeJs as my primary techstack. I have almost 1 year experience developing web applications using HTML5, CSS3, TailwindCSS and other web technologies. I do like graphic design a lot and make doodles and graphics in my free time. 
+welcome to my Profile ! , I am a graduate at D.Y PATIL INSTITUTEOF ENGINEERING,MANAGEMENT & RESEARCH and My field of study is Engineering in Computer. During my current tenure at Stevens I have interned as a Frontend Software developer at TekInvaderz LLC. My area of work was in Frontend development using Javascript, ReactJs, NodeJs as my primary techstack. I have almost 1 year experience developing web applications using HTML5, CSS3, TailwindCSS and other web technologies. I do like graphic design a lot and make doodles and graphics in my free time. 
 * 🌍  I'm based in Pune,India 
 * 🖥️  See my portfolio at [tanaya-Dashboard](http://tanaya-dashboard.netlify.app/)
 * ✉️  You can contact me at [atharvabhole02@gmail.com](mailto:atharvabhole02@gmail.com) 
